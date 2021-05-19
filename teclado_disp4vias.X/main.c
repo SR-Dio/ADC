@@ -34,7 +34,7 @@ void main(void)
                     estado = 10;
                     break;
            case 10:  
-                    dispLCD(0,0,"Tertos Terona   ");               
+                    dispLCD(0,0," Tertos Terona  ");               
                     dispLCD(1,0,"1:Operacao C:cfg");
                     if(tecla == '1')
                         estado = 20;
